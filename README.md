@@ -21,4 +21,4 @@ and loyalty. Comparative analysis of different sentiment analysis
 models based on metrics like accuracy. The results of this project
 will be used to improve the sentiment analysis capabilities. This
 will help to improve customer experience, product development,
-and marketing campaigns.
+and marketing campaigns .
